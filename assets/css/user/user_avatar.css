@@ -82,3 +82,7 @@ body {
     overflow: hidden;
     border-radius: 50%;
 }
+
+#file {
+    display: none;
+}
